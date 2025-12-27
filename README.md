@@ -6,14 +6,14 @@ This profile represents my long-term commitment to **understanding, building, an
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 - Building **Hale & Bold** → an end-to-end production system (engineering + ML + product)
 - Implementing **core ML algorithms from scratch** (no black-box shortcuts)
 - Developing strong mathematical intuition behind learning systems
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Core Machine Learning (Linear Models → Probabilistic Models → Deep Learning)
 - Optimization & loss landscapes
 - Model training dynamics and generalization
@@ -21,7 +21,7 @@ This profile represents my long-term commitment to **understanding, building, an
 
 ---
 
-## 👯 Open to Collaborations On
+## Open to Collaborations On
 - ML algorithms implemented **from scratch**
 - Research-oriented engineering projects
 - Kaggle competitions with strong feature engineering focus
@@ -31,14 +31,14 @@ This profile represents my long-term commitment to **understanding, building, an
 
 ---
 
-## 🤔 Looking for Help With
+## Looking for Help With
 - Research-grade experimentation practices
 - Reading & reproducing classic ML papers
 - Designing clean ML codebases that scale
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 - First-principles approach to Machine Learning
 - Competitive programming & algorithmic thinking
 - Learning ML as a long-term craft (not a shortcut career)
@@ -46,13 +46,13 @@ This profile represents my long-term commitment to **understanding, building, an
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 - **Email:** ambuj9983@gmail.com  
 - **GitHub:** You’re already here — feel free to open an issue or start a discussion
 
 ---
 
-## 😄 Pronouns
+## Pronouns
 - He / Him
 
 ---
@@ -63,7 +63,7 @@ if I can’t explain *why* it works, I don’t trust *that* it works.
 
 ---
 
-### 📌 Philosophy
+### Philosophy
 > *“APIs make you productive.  
 First principles make you dangerous.”*
 
